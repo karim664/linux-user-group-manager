@@ -25,7 +25,7 @@ Welcome to the **Linux User & Group Management Tool** — a simple interactive B
 **🔻 Password Confirmation:**
 ![Add User](screenshots/add_user5.png)
 
-** And So Many more Options **
+** And So Many more Options:**
 
 **🔻 Modify User Options:**
 ![Modify User](screenshots/modify_user.png)
