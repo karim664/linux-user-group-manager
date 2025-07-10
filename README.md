@@ -25,10 +25,10 @@ Welcome to the **Linux User & Group Management Tool** — a simple interactive B
 **🔻 Password Confirmation:**
 ![Add User](screenshots/add_user5.png)
 
-**🔻 And So many options:**
-
 **🔻 Modify User Options:**
 ![Modify User](screenshots/modify_user.png)
+
+**🔻 And So many other options:**
 
 ---
 
